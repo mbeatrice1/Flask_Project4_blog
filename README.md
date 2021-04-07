@@ -21,7 +21,7 @@ there are none
 
 ## Setup/Installation requirements
 
-1.Clone or download and unzip the repository from github,https://github.com/umedith/Blog
+1.Clone or download and unzip the repository from github,https://github.com/mbeatrice1/Flask_Project4_blog.git
 
 2.You can use this command (git clone my link) to clone the project to your machine if you have git .
 
